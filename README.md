@@ -1,2 +1,2 @@
-# Yes
-yes
+# $Dedsec
+Powershell
